@@ -52,7 +52,6 @@
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-![Escola DNC]()
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
