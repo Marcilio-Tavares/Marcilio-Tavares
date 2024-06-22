@@ -52,7 +52,7 @@
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-![Escola DNC](https://carreiras.dnc.group/img/logo-nova-preta.8bdbba2f.png)
+![Escola DNC]()
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
