@@ -52,7 +52,7 @@
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-![Escola DNC]((https://img.shields.io/badge/-DNC-blue?style=flat-square&logo=DNC))
+![Escola DNC](https://img.shields.io/badge/-DNC-blue?style=flat-square&logo=DNC)
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
