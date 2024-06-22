@@ -52,7 +52,7 @@
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-![Escola DNC](https://www.inhire.com.br/wp-content/uploads/2024/03/logotipo_dnc_principal_branco-1-1.png)
+![Escola DNC](https://carreiras.dnc.group/img/logo-nova-preta.8bdbba2f.png)
 
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
